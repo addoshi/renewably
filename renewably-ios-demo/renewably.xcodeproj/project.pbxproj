@@ -23,6 +23,8 @@
 		76571D7B17244A2E00DDAF74 /* about@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 76571D7917244A2E00DDAF74 /* about@2x.png */; };
 		76571D7E17244DFF00DDAF74 /* REMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76571D7D17244DFF00DDAF74 /* REMapViewController.m */; };
 		76571D81172451FC00DDAF74 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76571D80172451FC00DDAF74 /* InfoViewController.m */; };
+		76571D83172458B700DDAF74 /* 1 big.png in Resources */ = {isa = PBXBuildFile; fileRef = 76571D82172458B700DDAF74 /* 1 big.png */; };
+		76571D85172458BA00DDAF74 /* 1 small.png in Resources */ = {isa = PBXBuildFile; fileRef = 76571D84172458BA00DDAF74 /* 1 small.png */; };
 		76A8ECE5172339580013CD9F /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76A8ECE4172339580013CD9F /* MapKit.framework */; };
 		76AD6F0417238FAD0088E6F8 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76AD6F0317238FAD0088E6F8 /* CoreLocation.framework */; };
 		DFBD119780D14B40BFE17C1C /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C684F1BCE0426D9E7E6C07 /* libPods.a */; };
@@ -52,6 +54,8 @@
 		76571D7D17244DFF00DDAF74 /* REMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMapViewController.m; sourceTree = "<group>"; };
 		76571D7F172451FC00DDAF74 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
 		76571D80172451FC00DDAF74 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		76571D82172458B700DDAF74 /* 1 big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 big.png"; sourceTree = "<group>"; };
+		76571D84172458BA00DDAF74 /* 1 small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 small.png"; sourceTree = "<group>"; };
 		76A8ECE4172339580013CD9F /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		76AD6F0317238FAD0088E6F8 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		B8C0BF1B20B34901A2CDF08A /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
@@ -79,6 +83,8 @@
 		764C187F17232A89005DAA40 = {
 			isa = PBXGroup;
 			children = (
+				76571D84172458BA00DDAF74 /* 1 small.png */,
+				76571D82172458B700DDAF74 /* 1 big.png */,
 				764C189117232A89005DAA40 /* renewably */,
 				764C188A17232A89005DAA40 /* Frameworks */,
 				764C188917232A89005DAA40 /* Products */,
@@ -208,6 +214,8 @@
 				764C18A517232A89005DAA40 /* MainStoryboard.storyboard in Resources */,
 				76571D7A17244A2E00DDAF74 /* about.png in Resources */,
 				76571D7B17244A2E00DDAF74 /* about@2x.png in Resources */,
+				76571D83172458B700DDAF74 /* 1 big.png in Resources */,
+				76571D85172458BA00DDAF74 /* 1 small.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
