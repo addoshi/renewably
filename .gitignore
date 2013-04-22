@@ -1,0 +1,8 @@
+
+.DS_Store
+
+*.lock
+
+renewably-ios-demo/Pods/
+
+renewably-ios-demo/renewably.xcworkspace/
