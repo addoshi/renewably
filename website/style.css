@@ -1,0 +1,75 @@
+@font-face {
+font-family: WindsorHand;
+src: url('windsor-hand.otf');
+}
+@font-face {
+font-family: tree;
+src: url('tree.ttf');
+}
+
+h1.title {
+	text-align: center;
+	padding:2em;
+	margin: 0 auto;
+	background: black;
+	color: white;
+}
+p {
+	margin:.4em 0;
+}
+h1.renewably {
+	background: black;
+	font-size:7em;
+	color: white;
+	text-align: center;
+	padding:.5em;
+	font-family: WindsorHand;
+	line-height:100%;
+}
+span.tree {
+	font-family: tree;
+	font-size:150%;
+}
+p.sources {
+	font-size:30%;
+	line-height:100%;
+}
+
+div.point {
+	//font-family: WindsorHand;
+	font-size:4em;
+	line-height:110%;
+}
+ul{
+	list-style: none;
+	line-height:100%;
+}
+li {
+	line-height:100%;
+}
+span.logo {
+	color: #5e922a;
+}
+span.warning {
+	color: #d06943;
+}
+body {
+	background: white;
+}
+div.center {
+	display: block;
+	margin: 0 auto;
+	float: none;
+}
+iframe {
+	max-width:100%;
+}
+div.point {
+	background: white;
+	color: black;
+	padding:1em;
+}
+
+p.small {
+	font-size:50%;
+}
